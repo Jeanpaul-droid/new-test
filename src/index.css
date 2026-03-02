@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @plugin "daisyui" {
-  themes: night;
+  themes: night, forest, synthwave, cyberpunk, valentine, halloween, garden, retro, light, dark, dracula;
 }
 
 @plugin "@tailwindcss/typography";

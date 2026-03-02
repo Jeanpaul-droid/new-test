@@ -5,6 +5,8 @@ import './index.css'
 import { ToastProvider } from './context/ToastContext'
 import { BrowserRouter } from 'react-router-dom'
 
+import './firaCodeGlobal.css'
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <ToastProvider>
